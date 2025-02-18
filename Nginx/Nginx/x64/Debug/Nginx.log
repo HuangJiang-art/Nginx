@@ -1,0 +1,6 @@
+﻿  Nginx.cpp
+E:\VSfile\Nginx\Nginx\Nginx.cpp(53,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\VSfile\Nginx\Nginx\Nginx.cpp(54,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ngx_mem_pool.cpp
+  正在生成代码...
+  Nginx.vcxproj -> E:\VSfile\Nginx\x64\Debug\Nginx.exe
